@@ -1,4 +1,4 @@
-from Tkinter import Label, Tk
+from tkinter import Label, Tk
 import time
 
 #GUI Window
